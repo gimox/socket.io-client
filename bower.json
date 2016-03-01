@@ -1,0 +1,21 @@
+{
+  "name": "socket.io-client",
+  "homepage": "https://github.com/gimox/socket.io-client",
+  "authors": [
+    "Giorgio Modoni <modogio@gmail.com>"
+  ],
+  "description": "socket.io client file only",
+  "main": "socket.io.js",
+  "moduleType": [],
+  "keywords": [
+    "socket.io"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
